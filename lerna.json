@@ -1,0 +1,12 @@
+{
+  "packages": ["packages/*"],
+  "version": "independent",
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "ignoreChanges": [
+    "**/*.md",
+    "**/package-lock.json",
+    "**/yarn.lock",
+    "**/dist/**"
+  ]
+}
