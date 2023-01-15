@@ -1,0 +1,15 @@
+{
+  "name": "@goat-rc/docs",
+  "version": "0.0.1",
+  "description": "goat-rc docs",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "dumi dev",
+    "build": "dumi build"
+  },
+  "authors": "Anoxia001",
+  "license": "MIT",
+  "devDependencies": {
+    "dumi": "^2.0.2"
+  }
+}
