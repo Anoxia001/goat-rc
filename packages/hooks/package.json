@@ -1,7 +1,7 @@
 {
-  "name": "@goat-rc/hooks",
+  "name": "@goat-ui/hooks",
   "version": "0.0.1",
-  "description": "goat-rc hooks",
+  "description": "goat-ui hooks",
   "license": "ISC",
   "type": "module",
   "module": "es/index.js",
