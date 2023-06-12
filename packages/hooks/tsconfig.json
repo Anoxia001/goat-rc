@@ -22,7 +22,6 @@
     "noFallthroughCasesInSwitch": true,
     "baseUrl": ".",
     "paths": { "@/*": ["src/*"] },
-    "suppressImplicitAnyIndexErrors": true
   },
   "include": ["**/*.ts", "**/*.tsx"],
   "exclude": ["node_modules", "es", "test"]
