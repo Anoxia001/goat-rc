@@ -1,7 +1,7 @@
 {
-  "name": "@goat-rc/docs",
+  "name": "@goat-ui/docs",
   "version": "0.0.1",
-  "description": "goat-rc docs",
+  "description": "goat-ui docs",
   "scripts": {
     "start": "npm run dev",
     "dev": "dumi dev",
